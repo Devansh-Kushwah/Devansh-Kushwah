@@ -1,12 +1,11 @@
-### Hi there, I'm Devansh 👋
+### Hi there, I'm Devansh! 👋
 
+## I'm a Student, Learner, and Curious Being!
 
-## I'm a Student, Learner & Curious Being!!
-
-- 🌱 I’m currently learning everything 😅
-- 👯 I’m looking to collaborate with other Curious Programmers
-- 🥅 2022 Goal: Contribute more to Open Source projects 
-- ⚡ Fun fact: I love Football, Gyming, Singing And Hanging Out Fams & Freinds
+- 🌱 Currently absorbing knowledge like a sponge!
+- 👯 Seeking collaborations with fellow curious minds.
+- 🥅 Goal for 2024: Make meaningful contributions to Open Source projects and continue my growth journey.
+- ⚡ Fun fact: I'm passionate about football, hitting the gym, singing, and spending quality time with family and friends!
 
 
 ### Connect with me:
