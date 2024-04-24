@@ -16,11 +16,11 @@
 <br />
 
 ### Tools And Technologies 
-[<img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/00911cba-5952-4ff3-a76d-9bad1e1b4d34" />]
-[<img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/1ce39354-b18a-432c-ba58-16c9cdad8fe4" />]
-[<img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/b3197cd3-a8f4-4ae4-8492-b1c495701ef2" />]
-[<img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/52b63a2e-aa88-4b95-b478-4e12ae7e1c41" />]
-[<img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/69bcb41d-a88c-4102-ab12-683a844c20d3" />]
+<img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/00911cba-5952-4ff3-a76d-9bad1e1b4d34" />
+<img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/1ce39354-b18a-432c-ba58-16c9cdad8fe4" />
+<img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/b3197cd3-a8f4-4ae4-8492-b1c495701ef2" />
+<img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/52b63a2e-aa88-4b95-b478-4e12ae7e1c41" />
+<img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/69bcb41d-a88c-4102-ab12-683a844c20d3" />
 <details>
   <summary>:zap: GitHub Stats</summary>
   
