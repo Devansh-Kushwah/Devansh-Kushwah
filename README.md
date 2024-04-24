@@ -21,9 +21,9 @@
 <img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/b3197cd3-a8f4-4ae4-8492-b1c495701ef2" />
 <img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/52b63a2e-aa88-4b95-b478-4e12ae7e1c41" />
 <img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/69bcb41d-a88c-4102-ab12-683a844c20d3" />
+<br />
+<br />
 <details>
-<br />
-<br />
 
 <summary>:zap: GitHub Stats</summary>  
   ---
