@@ -22,11 +22,12 @@
 <img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/52b63a2e-aa88-4b95-b478-4e12ae7e1c41" />
 <img align="left" alt="React" width="22px" src="https://github.com/Devansh-Kushwah/Devansh-Kushwah/assets/95175785/69bcb41d-a88c-4102-ab12-683a844c20d3" />
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  
+<br />
+<br />
+
+<summary>:zap: GitHub Stats</summary>  
   ---
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Devansh-Kushwah&show_icons=true&hide_border=true" />
-
 </details>
 
 [instagram]: https://instagram.com/devansh_kushwah_/
