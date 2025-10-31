@@ -1,6 +1,6 @@
 ### Hi there, I'm Devansh! 👋
 
-## I'm a Student, Learner, and Curious Being!
+## I'm No more a Student
 
 - 🌱 Currently absorbing knowledge like a sponge!
 - 👯 Seeking collaborations with fellow curious minds.
